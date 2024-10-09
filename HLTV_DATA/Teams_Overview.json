@@ -1,0 +1,497 @@
+{
+    "Vitality": [
+        {
+            "maps played": 82,
+            "wins": 55,
+            "losses": 27,
+            "total kills": 6420,
+            "total deaths": 5828,
+            "rounds played": 1842,
+            "k/d ratio": 1.1
+        }
+    ],
+    "Natus Vincere": [
+        {
+            "maps played": 92,
+            "wins": 63,
+            "losses": 29,
+            "total kills": 6881,
+            "total deaths": 6268,
+            "rounds played": 1989,
+            "k/d ratio": 1.1
+        }
+    ],
+    "Spirit": [
+        {
+            "maps played": 79,
+            "wins": 52,
+            "losses": 27,
+            "total kills": 5707,
+            "total deaths": 5212,
+            "rounds played": 1659,
+            "k/d ratio": 1.09
+        }
+    ],
+    "MOUZ": [
+        {
+            "maps played": 83,
+            "wins": 50,
+            "losses": 33,
+            "total kills": 6266,
+            "total deaths": 5851,
+            "rounds played": 1817,
+            "k/d ratio": 1.07
+        }
+    ],
+    "The MongolZ": [
+        {
+            "maps played": 86,
+            "wins": 53,
+            "losses": 33,
+            "total kills": 6551,
+            "total deaths": 6111,
+            "rounds played": 1902,
+            "k/d ratio": 1.07
+        }
+    ],
+    "G2": [
+        {
+            "maps played": 111,
+            "wins": 71,
+            "losses": 40,
+            "total kills": 8098,
+            "total deaths": 7656,
+            "rounds played": 2399,
+            "k/d ratio": 1.06
+        }
+    ],
+    "MIBR": [
+        {
+            "maps played": 117,
+            "wins": 66,
+            "losses": 51,
+            "total kills": 8146,
+            "total deaths": 7866,
+            "rounds played": 2452,
+            "k/d ratio": 1.04
+        }
+    ],
+    "PARIVISION": [
+        {
+            "maps played": 85,
+            "wins": 45,
+            "losses": 40,
+            "total kills": 6284,
+            "total deaths": 6063,
+            "rounds played": 1839,
+            "k/d ratio": 1.04
+        }
+    ],
+    "9 Pandas": [
+        {
+            "maps played": 92,
+            "wins": 45,
+            "losses": 47,
+            "total kills": 6726,
+            "total deaths": 6632,
+            "rounds played": 2024,
+            "k/d ratio": 1.01
+        }
+    ],
+    "Monte": [
+        {
+            "maps played": 132,
+            "wins": 65,
+            "losses": 67,
+            "total kills": 10238,
+            "total deaths": 9824,
+            "rounds played": 2975,
+            "k/d ratio": 1.04
+        }
+    ],
+    "Eternal Fire": [
+        {
+            "maps played": 98,
+            "wins": 57,
+            "losses": 41,
+            "total kills": 7334,
+            "total deaths": 7034,
+            "rounds played": 2196,
+            "k/d ratio": 1.04
+        }
+    ],
+    "B8": [
+        {
+            "maps played": 165,
+            "wins": 87,
+            "losses": 78,
+            "total kills": 12730,
+            "total deaths": 12532,
+            "rounds played": 3734,
+            "k/d ratio": 1.02
+        }
+    ],
+    "FaZe": [
+        {
+            "maps played": 106,
+            "wins": 61,
+            "losses": 45,
+            "total kills": 7924,
+            "total deaths": 7699,
+            "rounds played": 2355,
+            "k/d ratio": 1.03
+        }
+    ],
+    "Nemiga": [
+        {
+            "maps played": 104,
+            "wins": 62,
+            "losses": 42,
+            "total kills": 7501,
+            "total deaths": 7422,
+            "rounds played": 2224,
+            "k/d ratio": 1.01
+        }
+    ],
+    "Aurora": [
+        {
+            "maps played": 131,
+            "wins": 71,
+            "losses": 60,
+            "total kills": 9572,
+            "total deaths": 9471,
+            "rounds played": 2816,
+            "k/d ratio": 1.01
+        }
+    ],
+    "Astralis": [
+        {
+            "maps played": 77,
+            "wins": 42,
+            "losses": 35,
+            "total kills": 5535,
+            "total deaths": 5350,
+            "rounds played": 1653,
+            "k/d ratio": 1.03
+        }
+    ],
+    "Passion UA": [
+        {
+            "maps played": 70,
+            "wins": 32,
+            "losses": 38,
+            "total kills": 5191,
+            "total deaths": 5164,
+            "rounds played": 1555,
+            "k/d ratio": 1.01
+        }
+    ],
+    "fnatic": [
+        {
+            "maps played": 104,
+            "wins": 52,
+            "losses": 52,
+            "total kills": 7590,
+            "total deaths": 7432,
+            "rounds played": 2293,
+            "k/d ratio": 1.02
+        }
+    ],
+    "3DMAX": [
+        {
+            "maps played": 159,
+            "wins": 89,
+            "losses": 70,
+            "total kills": 11558,
+            "total deaths": 11438,
+            "rounds played": 3446,
+            "k/d ratio": 1.01
+        }
+    ],
+    "Liquid": [
+        {
+            "maps played": 98,
+            "wins": 56,
+            "losses": 42,
+            "total kills": 7350,
+            "total deaths": 7046,
+            "rounds played": 2193,
+            "k/d ratio": 1.04
+        }
+    ],
+    "Imperial": [
+        {
+            "maps played": 96,
+            "wins": 48,
+            "losses": 48,
+            "total kills": 6823,
+            "total deaths": 6708,
+            "rounds played": 2062,
+            "k/d ratio": 1.02
+        }
+    ],
+    "HEROIC": [
+        {
+            "maps played": 96,
+            "wins": 49,
+            "losses": 47,
+            "total kills": 6836,
+            "total deaths": 6812,
+            "rounds played": 2077,
+            "k/d ratio": 1.0
+        }
+    ],
+    "Sangal": [
+        {
+            "maps played": 116,
+            "wins": 65,
+            "losses": 51,
+            "total kills": 8678,
+            "total deaths": 8675,
+            "rounds played": 2572,
+            "k/d ratio": 1.0
+        }
+    ],
+    "Complexity": [
+        {
+            "maps played": 76,
+            "wins": 39,
+            "losses": 37,
+            "total kills": 5556,
+            "total deaths": 5603,
+            "rounds played": 1689,
+            "k/d ratio": 0.99
+        }
+    ],
+    "AMKAL": [
+        {
+            "maps played": 96,
+            "wins": 53,
+            "losses": 43,
+            "total kills": 7334,
+            "total deaths": 7410,
+            "rounds played": 2220,
+            "k/d ratio": 0.99
+        }
+    ],
+    "9z": [
+        {
+            "maps played": 78,
+            "wins": 31,
+            "losses": 47,
+            "total kills": 5747,
+            "total deaths": 5753,
+            "rounds played": 1739,
+            "k/d ratio": 1.0
+        }
+    ],
+    "paiN": [
+        {
+            "maps played": 131,
+            "wins": 77,
+            "losses": 54,
+            "total kills": 9317,
+            "total deaths": 9264,
+            "rounds played": 2850,
+            "k/d ratio": 1.01
+        }
+    ],
+    "BLEED": [
+        {
+            "maps played": 142,
+            "wins": 64,
+            "losses": 78,
+            "total kills": 10406,
+            "total deaths": 10676,
+            "rounds played": 3186,
+            "k/d ratio": 0.97
+        }
+    ],
+    "SAW": [
+        {
+            "maps played": 97,
+            "wins": 48,
+            "losses": 49,
+            "total kills": 6799,
+            "total deaths": 6981,
+            "rounds played": 2081,
+            "k/d ratio": 0.97
+        }
+    ],
+    "BetBoom": [
+        {
+            "maps played": 109,
+            "wins": 58,
+            "losses": 51,
+            "total kills": 7718,
+            "total deaths": 7871,
+            "rounds played": 2323,
+            "k/d ratio": 0.98
+        }
+    ],
+    "Virtus.pro": [
+        {
+            "maps played": 95,
+            "wins": 45,
+            "losses": 50,
+            "total kills": 6660,
+            "total deaths": 6754,
+            "rounds played": 2095,
+            "k/d ratio": 0.99
+        }
+    ],
+    "MOUZ NXT": [
+        {
+            "maps played": 81,
+            "wins": 31,
+            "losses": 50,
+            "total kills": 5637,
+            "total deaths": 5876,
+            "rounds played": 1726,
+            "k/d ratio": 0.96
+        }
+    ],
+    "ENCE": [
+        {
+            "maps played": 57,
+            "wins": 18,
+            "losses": 39,
+            "total kills": 3807,
+            "total deaths": 4144,
+            "rounds played": 1203,
+            "k/d ratio": 0.92
+        }
+    ],
+    "Falcons": [
+        {
+            "maps played": 100,
+            "wins": 45,
+            "losses": 55,
+            "total kills": 7101,
+            "total deaths": 7223,
+            "rounds played": 2176,
+            "k/d ratio": 0.98
+        }
+    ],
+    "BIG": [
+        {
+            "maps played": 80,
+            "wins": 34,
+            "losses": 46,
+            "total kills": 5712,
+            "total deaths": 5957,
+            "rounds played": 1759,
+            "k/d ratio": 0.96
+        }
+    ],
+    "FURIA": [
+        {
+            "maps played": 92,
+            "wins": 48,
+            "losses": 44,
+            "total kills": 6363,
+            "total deaths": 6457,
+            "rounds played": 1987,
+            "k/d ratio": 0.99
+        }
+    ],
+    "OG": [
+        {
+            "maps played": 69,
+            "wins": 31,
+            "losses": 38,
+            "total kills": 4941,
+            "total deaths": 5261,
+            "rounds played": 1517,
+            "k/d ratio": 0.94
+        }
+    ],
+    "Sashi": [
+        {
+            "maps played": 121,
+            "wins": 64,
+            "losses": 57,
+            "total kills": 8718,
+            "total deaths": 9071,
+            "rounds played": 2664,
+            "k/d ratio": 0.96
+        }
+    ],
+    "SINNERS": [
+        {
+            "maps played": 113,
+            "wins": 53,
+            "losses": 60,
+            "total kills": 8098,
+            "total deaths": 8415,
+            "rounds played": 2454,
+            "k/d ratio": 0.96
+        }
+    ],
+    "Fluxo": [
+        {
+            "maps played": 60,
+            "wins": 26,
+            "losses": 34,
+            "total kills": 4138,
+            "total deaths": 4254,
+            "rounds played": 1274,
+            "k/d ratio": 0.97
+        }
+    ],
+    "Rebels": [
+        {
+            "maps played": 58,
+            "wins": 27,
+            "losses": 31,
+            "total kills": 4182,
+            "total deaths": 4417,
+            "rounds played": 1276,
+            "k/d ratio": 0.95
+        }
+    ],
+    "Ninjas in Pyjamas": [
+        {
+            "maps played": 89,
+            "wins": 37,
+            "losses": 52,
+            "total kills": 6355,
+            "total deaths": 6718,
+            "rounds played": 1964,
+            "k/d ratio": 0.95
+        }
+    ],
+    "RED Canids": [
+        {
+            "maps played": 87,
+            "wins": 37,
+            "losses": 50,
+            "total kills": 6019,
+            "total deaths": 6451,
+            "rounds played": 1914,
+            "k/d ratio": 0.93
+        }
+    ],
+    "GamerLegion": [
+        {
+            "maps played": 90,
+            "wins": 44,
+            "losses": 46,
+            "total kills": 6723,
+            "total deaths": 7029,
+            "rounds played": 2069,
+            "k/d ratio": 0.96
+        }
+    ],
+    "Zero Tenacity": [
+        {
+            "maps played": 133,
+            "wins": 59,
+            "losses": 74,
+            "total kills": 9649,
+            "total deaths": 10251,
+            "rounds played": 2990,
+            "k/d ratio": 0.94
+        }
+    ]
+}

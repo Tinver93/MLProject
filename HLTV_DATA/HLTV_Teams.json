@@ -1,0 +1,182 @@
+[
+    {
+        "Name": "Vitality",
+        "Url": "https://www.hltv.org/stats/teams/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Natus Vincere",
+        "Url": "https://www.hltv.org/stats/teams/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Spirit",
+        "Url": "https://www.hltv.org/stats/teams/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "MOUZ",
+        "Url": "https://www.hltv.org/stats/teams/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "The MongolZ",
+        "Url": "https://www.hltv.org/stats/teams/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "G2",
+        "Url": "https://www.hltv.org/stats/teams/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "MIBR",
+        "Url": "https://www.hltv.org/stats/teams/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "PARIVISION",
+        "Url": "https://www.hltv.org/stats/teams/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "9 Pandas",
+        "Url": "https://www.hltv.org/stats/teams/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Monte",
+        "Url": "https://www.hltv.org/stats/teams/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Eternal Fire",
+        "Url": "https://www.hltv.org/stats/teams/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "B8",
+        "Url": "https://www.hltv.org/stats/teams/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "FaZe",
+        "Url": "https://www.hltv.org/stats/teams/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Nemiga",
+        "Url": "https://www.hltv.org/stats/teams/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Aurora",
+        "Url": "https://www.hltv.org/stats/teams/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Astralis",
+        "Url": "https://www.hltv.org/stats/teams/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Passion UA",
+        "Url": "https://www.hltv.org/stats/teams/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "fnatic",
+        "Url": "https://www.hltv.org/stats/teams/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "3DMAX",
+        "Url": "https://www.hltv.org/stats/teams/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Liquid",
+        "Url": "https://www.hltv.org/stats/teams/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Imperial",
+        "Url": "https://www.hltv.org/stats/teams/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "HEROIC",
+        "Url": "https://www.hltv.org/stats/teams/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Sangal",
+        "Url": "https://www.hltv.org/stats/teams/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Complexity",
+        "Url": "https://www.hltv.org/stats/teams/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "AMKAL",
+        "Url": "https://www.hltv.org/stats/teams/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "9z",
+        "Url": "https://www.hltv.org/stats/teams/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "paiN",
+        "Url": "https://www.hltv.org/stats/teams/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "BLEED",
+        "Url": "https://www.hltv.org/stats/teams/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "SAW",
+        "Url": "https://www.hltv.org/stats/teams/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "BetBoom",
+        "Url": "https://www.hltv.org/stats/teams/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Virtus.pro",
+        "Url": "https://www.hltv.org/stats/teams/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "MOUZ NXT",
+        "Url": "https://www.hltv.org/stats/teams/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "ENCE",
+        "Url": "https://www.hltv.org/stats/teams/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Falcons",
+        "Url": "https://www.hltv.org/stats/teams/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "BIG",
+        "Url": "https://www.hltv.org/stats/teams/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "FURIA",
+        "Url": "https://www.hltv.org/stats/teams/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "OG",
+        "Url": "https://www.hltv.org/stats/teams/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Sashi",
+        "Url": "https://www.hltv.org/stats/teams/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "SINNERS",
+        "Url": "https://www.hltv.org/stats/teams/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Fluxo",
+        "Url": "https://www.hltv.org/stats/teams/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Rebels",
+        "Url": "https://www.hltv.org/stats/teams/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Ninjas in Pyjamas",
+        "Url": "https://www.hltv.org/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "RED Canids",
+        "Url": "https://www.hltv.org/stats/teams/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "GamerLegion",
+        "Url": "https://www.hltv.org/stats/teams/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    {
+        "Name": "Zero Tenacity",
+        "Url": "https://www.hltv.org/stats/teams/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    }
+]

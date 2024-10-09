@@ -1,0 +1,407 @@
+{
+    "Vitality": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/9565/vitality?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Natus Vincere": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4608/natus-vincere?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Spirit": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/7020/spirit?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "MOUZ": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4494/mouz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "The MongolZ": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/6248/the-mongolz?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "G2": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/5995/g2?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "MIBR": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/9215/mibr?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "PARIVISION": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/12467/parivision?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "9 Pandas": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11883/9-pandas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Monte": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11811/monte?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Eternal Fire": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11251/eternal-fire?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "B8": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11241/b8?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "FaZe": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/6667/faze?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Nemiga": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/7969/nemiga?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Aurora": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11861/aurora?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Astralis": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/6665/astralis?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Passion UA": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/12426/passion-ua?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "fnatic": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4991/fnatic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "3DMAX": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4914/3dmax?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Liquid": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/5973/liquid?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Imperial": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/9455/imperial?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "HEROIC": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/7175/heroic?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Sangal": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/10333/sangal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Complexity": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/5005/complexity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "AMKAL": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/12586/amkal?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "9z": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/9996/9z?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "paiN": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4773/pain?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "BLEED": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/12543/bleed?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "SAW": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/10567/saw?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "BetBoom": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/12394/betboom?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Virtus.pro": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/5378/virtuspro?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "MOUZ NXT": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11176/mouz-nxt?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "ENCE": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4869/ence?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Falcons": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11283/falcons?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "BIG": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/7532/big?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "FURIA": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/8297/furia?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "OG": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/10503/og?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Sashi": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11712/sashi?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "SINNERS": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/10577/sinners?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Fluxo": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11837/fluxo?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Rebels": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/12642/rebels?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Ninjas in Pyjamas": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/4411/ninjas-in-pyjamas?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "RED Canids": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/7176/red-canids?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "GamerLegion": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/9928/gamerlegion?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    },
+    "Zero Tenacity": {
+        "Ancient": "https://www.hltv.org/stats/teams/map/47/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Anubis": "https://www.hltv.org/stats/teams/map/48/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Dust 2": "https://www.hltv.org/stats/teams/map/31/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Mirage": "https://www.hltv.org/stats/teams/map/32/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Inferno": "https://www.hltv.org/stats/teams/map/33/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Nuke": "https://www.hltv.org/stats/teams/map/34/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50",
+        "Vertigo": "https://www.hltv.org/stats/teams/map/46/11523/zero-tenacity?startDate=2024-03-29&endDate=2024-09-29&rankingFilter=Top50"
+    }
+}
