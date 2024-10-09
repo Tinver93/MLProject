@@ -1,0 +1,4907 @@
+{
+    "Vitality": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Natus Vincere": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Spirit": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "MOUZ": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "The MongolZ": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "G2": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "MIBR": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "PARIVISION": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "9 Pandas": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Monte": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Eternal Fire": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "B8": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "FaZe": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Nemiga": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Aurora": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Astralis": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Passion UA": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "fnatic": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "3DMAX": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Liquid": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Imperial": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "HEROIC": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Sangal": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Complexity": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "AMKAL": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "9z": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "paiN": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "BLEED": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "SAW": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "BetBoom": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Virtus.pro": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "MOUZ NXT": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "ENCE": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Falcons": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "BIG": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "FURIA": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "OG": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Sashi": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "SINNERS": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Fluxo": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Rebels": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Ninjas in Pyjamas": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "RED Canids": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "GamerLegion": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ],
+    "Zero Tenacity": [
+        {
+            "Ancient": [
+                {
+                    "times played": 0,
+                    "wins": 0,
+                    "losses": 0,
+                    "total rounds played": 0,
+                    "rounds won": 0,
+                    "win percent": 0.0,
+                    "pistol rounds": 0,
+                    "pistol rounds won": 0,
+                    "pistol round win percent": 0.0,
+                    "ct round win percent": 0.0,
+                    "t round win percent": 0.0
+                }
+            ],
+            "Anubis": [
+                {
+                    "times played": 43,
+                    "wins": 25,
+                    "losses": 18,
+                    "total rounds played": 944,
+                    "rounds won": 486,
+                    "win percent": 58.1,
+                    "pistol rounds": 86,
+                    "pistol rounds won": 42,
+                    "pistol round win percent": 48.8,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 57.3
+                }
+            ],
+            "Dust 2": [
+                {
+                    "times played": 16,
+                    "wins": 6,
+                    "losses": 10,
+                    "total rounds played": 371,
+                    "rounds won": 172,
+                    "win percent": 37.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 56.2,
+                    "ct round win percent": 48.3,
+                    "t round win percent": 44.6
+                }
+            ],
+            "Mirage": [
+                {
+                    "times played": 22,
+                    "wins": 7,
+                    "losses": 15,
+                    "total rounds played": 504,
+                    "rounds won": 241,
+                    "win percent": 31.8,
+                    "pistol rounds": 44,
+                    "pistol rounds won": 22,
+                    "pistol round win percent": 50.0,
+                    "ct round win percent": 46.3,
+                    "t round win percent": 49.6
+                }
+            ],
+            "Inferno": [
+                {
+                    "times played": 15,
+                    "wins": 8,
+                    "losses": 7,
+                    "total rounds played": 324,
+                    "rounds won": 177,
+                    "win percent": 53.3,
+                    "pistol rounds": 30,
+                    "pistol rounds won": 18,
+                    "pistol round win percent": 60.0,
+                    "ct round win percent": 53.9,
+                    "t round win percent": 55.6
+                }
+            ],
+            "Nuke": [
+                {
+                    "times played": 19,
+                    "wins": 10,
+                    "losses": 9,
+                    "total rounds played": 422,
+                    "rounds won": 200,
+                    "win percent": 52.6,
+                    "pistol rounds": 38,
+                    "pistol rounds won": 20,
+                    "pistol round win percent": 52.6,
+                    "ct round win percent": 54.5,
+                    "t round win percent": 40.4
+                }
+            ],
+            "Vertigo": [
+                {
+                    "times played": 16,
+                    "wins": 2,
+                    "losses": 14,
+                    "total rounds played": 377,
+                    "rounds won": 160,
+                    "win percent": 12.5,
+                    "pistol rounds": 32,
+                    "pistol rounds won": 13,
+                    "pistol round win percent": 40.6,
+                    "ct round win percent": 40.0,
+                    "t round win percent": 45.3
+                }
+            ]
+        }
+    ]
+}
